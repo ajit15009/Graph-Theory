@@ -6,3 +6,4 @@ There are some Algorithms of Graph Theory
 * DFS (which is in scc.c)
 * Strongly Connected Component(By using DFS)
 * Topological Sort
+* GRAPHS
